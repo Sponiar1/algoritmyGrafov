@@ -1,3 +1,3 @@
 # algoritmyGrafov
 
-Zbierka programov vytvorených na vykonávanie algoritmov v grafov pre predmet "Algoritmická teória grafov"
+Zbierka programov vytvorených na vykonávanie algoritmov v grafoch pre predmet "Algoritmická teória grafov"
